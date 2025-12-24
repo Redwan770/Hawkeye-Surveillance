@@ -1,0 +1,7 @@
+node_modules/
+backend/venv/
+data/events/*.jpg
+data/events.db
+*.pt
+__pycache__/
+.DS_Store
